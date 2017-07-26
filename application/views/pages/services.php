@@ -1,12 +1,12 @@
 <div id="fh5co-features" class="animate-box">
     <div class="container">
-        <div class="services-padding">
+        <div class="services-padding" id="particles-js" >
             <div class="row">
                 <div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
                     <h2>Mis Servicios</h2>
                 </div>
             </div>
-            <div class="row">
+            <div class="row" >
 
                 <div class="col-md-4 text-center col-md-offset-2">
                     <div class="feature-left">

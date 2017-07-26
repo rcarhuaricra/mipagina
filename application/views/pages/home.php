@@ -2,7 +2,7 @@
 //echo "hola";
 ?>
 <header id="fh5co-header" class="fh5co-cover js-fullheight" role="banner" style="background-image:url(<?php echo base_url(); ?>asset/images/cover_bg_3.jpg);" data-stellar-background-ratio="0">
-    <div class="overlay">
+    <div class="overlay" id="particles-js" ><!--style="background-color: rgba(50,50,50,1)"-->
 
     </div>
     <div class="container">
@@ -10,9 +10,16 @@
             <div class="col-md-8 col-md-offset-2 text-center">
                 <div class="display-t js-fullheight">
                     <div class="display-tc js-fullheight animate-box" data-animate-effect="fadeIn">
-                        <a href="<?php echo base_url(); ?>"><div class="profile-thumb" style="background: url(<?php echo base_url(); ?>asset/images/user-3.jpg);"></div>
-                        </a><h1><span>Ronald Carhuaricra Vivas</span></h1>
-                        <h3><span>Desarrollador Web / Diseñador Grafico / Programador PHP</span></h3>
+                        <a href="<?php echo base_url(); ?>">
+                            <div class="profile-thumb" style="background: url(<?php echo base_url(); ?>asset/images/user-3.jpg);">
+                            </div>
+                        </a>
+                        <h1>
+                            <spans>Ronald Carhuaricra Vivas</spans>
+                        </h1>
+                        <h3>
+                            <span>Desarrollador Web / Diseñador Grafico / Programador PHP</span>
+                        </h3>
                         <p>
                         <ul class="fh5co-social-icons">
                             <li><a href="https://www.facebook.com/ricv.informatics"><i class="icofont icofont-social-facebook"></i></a></li>

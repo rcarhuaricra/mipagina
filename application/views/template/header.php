@@ -36,7 +36,7 @@
         <link rel="stylesheet" href="<?php echo base_url(); ?>asset/css/style.css">
         <!-- Modernizr JS -->
         <script src="<?php echo base_url(); ?>asset/js/modernizr-2.6.2.min.js"></script>
-        
+
         <!-- FOR IE9 below -->
         <!--[if lt IE 9]>
         <script src="<?php echo base_url(); ?>asset/js/respond.min.js"></script>
@@ -56,20 +56,16 @@
         <!-- Google Map 
         <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCefOgb1ZWqYtj7raVSmN4PL2WkTrc-KyA&sensor=false"></script>
         <script src="asset/js/google_map.js"></script>-->
-        
-        
-        <!-- Particles JS-->
-        <script src="<?php echo base_url(); ?>asset/particles.js-master/particles.min.js" type="text/javascript"></script>
         <!-- Main -->
         <script src="<?php echo base_url(); ?>asset/js/main.js"></script>
-         <style>
+        <style>
             #particles {
                 height: 300px;
                 width: 100%;
             }
-            
+
         </style>
-        
+
     </head>
     <body>
 
